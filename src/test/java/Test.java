@@ -1,6 +1,6 @@
 
 public class Test {
-// add two numbers
+// add two numbers..
 	public static void main(String[] args) {
 		
 		int x=10;
